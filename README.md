@@ -4,6 +4,8 @@ Nov 2020 interview prep.
 
 Notes from video "Building Software Systems At Google and Lessons Learned":
 
+https://landing.google.com/sre/workbook/chapters/canarying-releases/
+
 https://www.english-corpora.org/coca/compare-google.asp
 
 https://norvig.com/ngrams/

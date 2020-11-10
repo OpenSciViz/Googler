@@ -20,6 +20,8 @@ https://cloud.google.com/blog/products/databases/spanner-database-new-regions-fo
 
 https://cloud.google.com/bigtable/docs
 
+https://developers.google.com/protocol-buffers/
+
 Sorta reminds me of NASA data centers for Earth and Planatery data: https://nasa.github.io/data-nasa-gov-frontpage/
 
 Ex-Googler Tristan Harris: https://youtu.be/YF7_Kt5V3eY

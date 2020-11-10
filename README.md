@@ -14,3 +14,5 @@ https://en.wikipedia.org/wiki/Paxos_(computer_science)
 
 https://cloud.google.com/blog/products/databases/spanner-database-new-regions-for-scalabilit
 
+Sorta reminds me of NASA data centers for Earth and Planatery data: https://nasa.github.io/data-nasa-gov-frontpage/
+

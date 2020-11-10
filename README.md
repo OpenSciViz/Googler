@@ -14,6 +14,8 @@ https://pierrezemb.fr/posts/colossus-google/ -- Colossus file system replaced GF
 
 https://en.wikipedia.org/wiki/Paxos_(computer_science)
 
+https://blog.acolyer.org/2015/02/13/the-chubby-lock-service-for-loosely-coupled-distributed-systems/
+
 https://cloud.google.com/blog/products/databases/spanner-database-new-regions-for-scalabilit
 
 Sorta reminds me of NASA data centers for Earth and Planatery data: https://nasa.github.io/data-nasa-gov-frontpage/

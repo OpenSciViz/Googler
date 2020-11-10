@@ -18,6 +18,8 @@ https://blog.acolyer.org/2015/02/13/the-chubby-lock-service-for-loosely-coupled-
 
 https://cloud.google.com/blog/products/databases/spanner-database-new-regions-for-scalabilit
 
+https://cloud.google.com/bigtable/docs
+
 Sorta reminds me of NASA data centers for Earth and Planatery data: https://nasa.github.io/data-nasa-gov-frontpage/
 
 Ex-Googler Tristan Harris: https://youtu.be/YF7_Kt5V3eY

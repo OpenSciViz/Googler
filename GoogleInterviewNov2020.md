@@ -6,13 +6,10 @@
 
 1.  <https://www.youtube.com/watch?v=modXC5IWTJI&authuser=0>
 2.  <https://www.youtube.com/watch?v=Gg318hR5JY0&t=18s&authuser=0>
-3.  <https://www.youtube.com/watch?v=modXC5IWTJI&authuser=0>
-
-  
+3.  <https://www.youtube.com/watch?v=XKu_SEDAykw&authuser=0>
 
 -----
 
-  
 References  
   
 <https://landing.google.com/sre/>  

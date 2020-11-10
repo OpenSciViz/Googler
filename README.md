@@ -11,3 +11,6 @@ https://norvig.com/ngrams/
 https://pierrezemb.fr/posts/colossus-google/ -- Colossus file system replaced GFS https://en.wikipedia.org/wiki/Google_File_System
 
 https://en.wikipedia.org/wiki/Paxos_(computer_science)
+
+https://cloud.google.com/blog/products/databases/spanner-database-new-regions-for-scalabilit
+

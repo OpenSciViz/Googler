@@ -25,3 +25,12 @@ https://developers.google.com/protocol-buffers/
 Sorta reminds me of NASA data centers for Earth and Planatery data: https://nasa.github.io/data-nasa-gov-frontpage/
 
 Ex-Googler Tristan Harris: https://youtu.be/YF7_Kt5V3eY
+
+---
+
+Other Videos and refs:
+
+https://landing.google.com/sre/ and https://landing.google.com/sre/books/
+
+https://www.youtube.com/watch?v=uTEL8Ff1Zvk -- What's the Difference Between DevOps and SRE? (class SRE implements DevOps)
+Liz (SRE) and Seth (DevOps)  

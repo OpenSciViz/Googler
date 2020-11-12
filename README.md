@@ -34,3 +34,6 @@ https://landing.google.com/sre/ and https://landing.google.com/sre/books/
 
 https://www.youtube.com/watch?v=uTEL8Ff1Zvk -- What's the Difference Between DevOps and SRE? (class SRE implements DevOps)
 Liz (SRE) and Seth (DevOps)  
+
+https://youtu.be/1NF6N2RwVoc -- history of SRE
+

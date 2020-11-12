@@ -4,9 +4,9 @@
 
 #### Videos
 
-1.  <https://www.youtube.com/watch?v=modXC5IWTJI&authuser=0> -- 1 hour presentation of google infrastructure evolution from 1999-ish to 2011-ish
+1.  <https://www.youtube.com/watch?v=modXC5IWTJI&authuser=0> -- 1.5 hour presentation of google infrastructure evolution from 1999-ish to 2011-ish
 2.  <https://www.youtube.com/watch?v=Gg318hR5JY0&t=18s&authuser=0> -- 5 min tips on nature of interview
-3.  <https://www.youtube.com/watch?v=XKu_SEDAykw&authuser=0> -- 24 min allegedly a real whiteboard interview 1 on 1
+3.  <https://www.youtube.com/watch?v=XKu_SEDAykw&authuser=0> -- 25 min allegedly a real whiteboard interview 1 on 1
 
 -----
 
